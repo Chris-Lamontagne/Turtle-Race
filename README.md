@@ -26,14 +26,14 @@ A simple and fun turtle racing simulator built using Python's built-in `turtle` 
 
 1. Open a terminal or command prompt in the project directory.  
 2. Run the script:  
-   python turtle_race.py  
+   python TurtleRaceSim.py 
    The race window will pop up and start the game!
 
 # File Structure
 
 ```
 Turtle-Race/
-├── turtle_race.py      # Main game file
+├── TurtleRaceSim.py      # Main game file
 └── README.md           # Project instructions
 ```
 
