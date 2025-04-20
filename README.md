@@ -1,6 +1,6 @@
-# Turtle Race Game
+# Turtle Race Simulator
 
-A simple and fun turtle racing game built using Python's built-in `turtle` graphics module. Players watch as colorful turtles race across the screen, with a random winner every time!
+A simple and fun turtle racing simulator built using Python's built-in `turtle` graphics module. Players watch as colorful turtles race across the screen, with a random winner every time!
 
 # Features
 
